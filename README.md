@@ -207,6 +207,7 @@ For providers that support custom base URLs (such as Ollama or LM Studio), follo
 - LM Studio
 - OpenAILike
 
+### Local LLMs Integration : ``` https://docs.google.com/document/d/19UNRP1c6ulDS_X7Ig7mRTI_EaT0xcvgimnfOJDKm7ig/edit?tab=t.0 ```
 ## Setup Using Git (For Developers only)
 
 This method is recommended for developers who want to:
